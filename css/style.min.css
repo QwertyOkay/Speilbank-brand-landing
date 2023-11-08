@@ -376,7 +376,7 @@ body {
 }
 
 .title {
-  top: -5px;
+  top: -22px;
   left: 97px;
   width: 765px;
   height: 716px;
@@ -785,7 +785,7 @@ body {
   background: url("../images/wheel2.gif");
   /* background: url("../images/titile.png"); */
   background-size: cover;
-  background-size: 770px 735px;
+  background-size: 770px 770px;
   background-repeat: no-repeat;
 }
 
