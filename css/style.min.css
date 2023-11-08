@@ -442,12 +442,13 @@ body {
 }
 
 .bonus {
-  top: 770px;
+  top: 780px;
   left: -21px;
   width: 1000px;
   height: 125px;
   position: absolute;
   background: url("../images/bonus.png");
+  background-repeat: no-repeat;
   -webkit-transform: scale(0.6);
   -ms-transform: scale(0.6);
   transform: scale(0.6);
